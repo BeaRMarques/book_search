@@ -1,6 +1,7 @@
 # Book Search
 
-Book Search searches the prices of books in several websites and lets know you know if there is any significant discount today.
+Book Search searches the prices of a list of books in several online stores and lets you know if there are any significant discounts today.
+Additionally, it keeps track of the prices over time and records the best deals so far.
 
 ## Installation
 
